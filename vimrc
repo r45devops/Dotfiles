@@ -49,7 +49,7 @@ nmap <C-Left> :vertical resize -2<CR>
 nmap <C-Down> :resieze +2<CR>
 nmap <C-Up> :resize -2<CR>
 nmap <C-Right> :vertical resize +2<CR>
-namp <leader>c :!
+nmap <leader>c :!
 
 augroup strip_whitespace_on_leave
     autocmd BufWritePre * %s/\s\+$//e
