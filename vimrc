@@ -12,6 +12,7 @@ set smartcase
 set incsearch
 set hlsearch
 set scrolloff=15
+set cursorline
 
 
 let mapleader = ' '
